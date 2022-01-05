@@ -2,3 +2,7 @@ h1{
     color: hsl(240, 100%, 50%);
     font-size: 30px;
 };
+
+.form{
+    background-color: aqua;
+}
